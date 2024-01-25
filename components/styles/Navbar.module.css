@@ -1,0 +1,52 @@
+  @import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+
+
+  .companyLogo {
+      font-size: 25px;
+      font-weight: 500;
+      color: #3d72b4;
+      font-family: 'Skranji', cursive;
+      cursor: pointer;
+  }
+
+  .MainBannerHeading span {
+
+      color: #525252;
+
+  }
+
+  .mainHeading {
+      /* width: 90%; */
+      font-size: 45px;
+      /* text-align: center; */
+      font-family: 'Skranji', cursive;
+      font-weight: 500;
+      /* color: rgb(173, 173, 173); */
+
+
+  }
+
+  .para {
+      font-weight: 600;
+  }
+
+  .discoverButton button {
+      background: none;
+      border: 2px solid #3d72b4;
+      padding: 2% 4%;
+      border-radius: 30px;
+      margin-top: 3%;
+      cursor: pointer;
+      transition: 0.3s ease-out;
+      font-weight:600;
+  }
+
+  .discoverButton button:hover {
+    background-image: linear-gradient(to right, #525252 0%, #3d72b4 51%, #525252 100%);
+    color: white;
+  }
+
+
+
+
+ 
